@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentsBackstackDemo</string>
+
+    <string name="hello_first_fragment">Hello First fragment</string>
+    <string name="hello_second_fragment">Hello Second fragment</string>
+    <string name="hello_third_fragment">Hello Third fragment</string>
+    <string name="hello_fourth_fragment">Hello Fourth fragment</string>
+</resources>
